@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virtual Camera</string>
+    <string name="select_image">Seleziona Immagine</string>
+    <string name="preview">Anteprima</string>
+    <string name="selected_image">IMMAGINE SELEZIONATA</string>
+    <string name="my_images">Le Mie Immagini</string>
+    <string name="add">Aggiungi</string>
+    <string name="add_image">Aggiungi immagine</string>
+    <string name="activate_camera">Attiva Camera Virtuale</string>
+    <string name="deactivate_camera">Disattiva Camera</string>
+    <string name="status_off">● INATTIVA</string>
+    <string name="status_on">● ATTIVA</string>
+    <string name="no_images">Nessuna immagine aggiunta</string>
+    <string name="no_images_hint">Tocca + per aggiungere immagini dalla galleria</string>
+    <string name="permission_required">Permesso necessario per accedere alle immagini</string>
+    <string name="image_added">Immagine aggiunta: %s</string>
+    <string name="image_removed">Immagine rimossa</string>
+    <string name="select_image_first">Seleziona prima un\'immagine</string>
+    <string name="camera_activated">Camera virtuale attivata! Selezionala nelle altre app.</string>
+    <string name="camera_deactivated">Camera virtuale disattivata</string>
+    <string name="camera_running">Camera virtuale in esecuzione</string>
+    <string name="stop">Stop</string>
+    <string name="how_to_use">Come usarla</string>
+    <string name="how_to_use_title">Come usare la Camera Virtuale</string>
+    <string name="how_to_use_message">1. Seleziona un\'immagine dalla lista\n2. Premi \"Attiva Camera Virtuale\"\n3. Apri l\'app che vuoi (WhatsApp, Meet, Zoom, ecc.)\n4. Nelle impostazioni della videocamera, seleziona \"Virtual Camera\"\n5. L\'immagine scelta verrà trasmessa come feed video\n\nNota: Alcune app potrebbero richiedere l\'accesso alla fotocamera nelle impostazioni di sistema.</string>
+    <string name="setup_required">Configurazione Richiesta</string>
+    <string name="setup_message">Per usare la camera virtuale con altre app, assicurati che:\n\n1. Il servizio VirtualCamera sia attivo\n2. Nell\'app di destinazione seleziona \"Virtual Camera\" come sorgente video\n3. Per abilitare il servizio, potresti dover concedere permessi aggiuntivi nelle Impostazioni App.\n\nVuoi aprire le impostazioni dell\'app?</string>
+    <string name="open_settings">Apri Impostazioni</string>
+    <string name="delete">Elimina</string>
+    <string name="channel_name">Camera Virtuale</string>
+    <string name="channel_desc">Notifica per il servizio della camera virtuale attiva</string>
+</resources>

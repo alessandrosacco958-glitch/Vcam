@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#574FD8</color>
+    <color name="primary_light">#EAE9FF</color>
+    <color name="red_500">#F44336</color>
+    <color name="green_500">#4CAF50</color>
+
+    <!-- Surface & Background -->
+    <color name="background">#F0F2F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1A2E</color>
+    <color name="card_stroke">#E8EAF0</color>
+
+    <!-- Gray scale -->
+    <color name="gray_300">#C7CBD9</color>
+    <color name="gray_400">#9EA4B8</color>
+    <color name="gray_500">#6B7290</color>
+
+    <!-- Basics -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#F0F2F8</color>
+</resources>
